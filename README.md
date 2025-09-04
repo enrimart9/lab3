@@ -17,3 +17,7 @@ En este laboratorio aprenderás a:
 1. Crear un proyecto PHP básico.
 2. Definir clases y objetos.
 3. Practicar métodos y propiedades de las clases.
+
+### Nota:
+Este archivo fue actualizado desde lab3-branch para prueba del Pull Request.
+
